@@ -1,0 +1,13 @@
+customtkinter==6.0.0
+lap==0.5.13
+matplotlib==3.11.1
+numpy==2.5.2
+opencv-python==5.0.0.93
+pillow==12.3.0
+polars==1.43.2
+pyinstaller==6.22.2
+pyyaml==6.0.3
+requests==2.34.2
+tkinterdnd2==0.6.2
+ultralytics==8.4.121
+
